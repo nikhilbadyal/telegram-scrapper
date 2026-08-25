@@ -1,4 +1,4 @@
 python-dotenv==1.2.3
-boto3==1.43.71
+boto3==1.43.73
 telethon==1.44.0
 aiofiles==25.1.0
